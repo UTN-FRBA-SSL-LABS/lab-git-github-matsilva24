@@ -16,10 +16,12 @@ int restar(int a, int b) {
 
 int multiplicar(int a, int b) {
     return a * b; //toma los valores pasados de a y b y devuelve la multiplicacion de esos.
+
 }
 
 /* ── esPar ────────────────────────────────────────────────────────────────── */
 
 int esPar(int n) {
     return (n % 2) == 0;
+
 }
