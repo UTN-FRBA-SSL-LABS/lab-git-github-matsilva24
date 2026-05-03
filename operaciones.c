@@ -23,5 +23,6 @@ int multiplicar(int a, int b) {
 
 int esPar(int n) {
     return (n % 2) == 0;
+    //dado un numero n verifica si este es par
 
 }
