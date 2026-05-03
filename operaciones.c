@@ -11,7 +11,7 @@ int sumar(int a, int b) {
 int restar(int a, int b) {
     return a - b;
 } 
-//devuelve el resultado de tomar el valor de a y restarle b
+//toma los valores de a y b y devuelve el valor de a menos el valor de b
 
 /* ── multiplicar — implementar en feature/mi-funcion ─────────────────────── */
 
